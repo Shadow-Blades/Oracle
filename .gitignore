@@ -1,6 +1,7 @@
 # Configuration with sensitive data
 config.php
 newconfig.php
+weighbridgecon.php
 !*.template.php
 *.ini
 .env
