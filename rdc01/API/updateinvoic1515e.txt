@@ -1,0 +1,8 @@
+
+[
+{
+"invoiceid":"KA2402186493",
+"status":"VALIDATED",
+"erpdescription":"Raw Matl.Cement",
+"bookedamount":"155207"
+}]
